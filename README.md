@@ -1,7 +1,7 @@
 # BurgerCouponGenerator
 This python program utilizes Selenium in order to automatically generate free charburger coupons from the habit (only works during March)
 
-You will have to edit the driver path acording to where ever you have your Google chrome driver downloaded
+You will have to edit the driver path acording to wherever you have your Google chrome driver downloaded
 You will also have to edit the location you want the coupons to be stored.
 See the comments in the code for help.
 
